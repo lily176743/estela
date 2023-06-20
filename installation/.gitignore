@@ -1,0 +1,10 @@
+# Common backup files
+*.swp
+*.bak
+*.tmp
+*.orig
+*~
+
+# Setup files
+values.yaml
+tmp

@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Yarn-npm stuff
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Api swagger generated file
+api.yaml
+
+# ENV
+.env.development
+.env.production

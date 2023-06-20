@@ -1,0 +1,21 @@
+# Environments
+.env
+.env.local
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Various IDEs
+.project
+.idea/
+*.tmproj
+.vscode/
+
+# Misc
+.DS_Store
+
+# Certificates
+*.crt
